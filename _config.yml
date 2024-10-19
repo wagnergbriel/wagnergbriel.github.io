@@ -1,0 +1,13 @@
+# Informações básicas do site
+title: "wagnergbriel.datascience"
+description: "Um espaço para compartilhar artigos e ideias."
+author: "Wagner Gabriel"
+email: "wagnergabriel220596@gmail.com"
+
+# Tema (escolha o tema que você preferir ou customize um)
+theme: jekyll-theme-minimal
+
+# URLs de redes sociais (opcional)
+social_links:
+  linkedin: https://www.linkedin.com/in/wagner-gabriel-dos-santos-silva/
+  github: https://github.com/wagnergbriel
